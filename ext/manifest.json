@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "A Chrome Extension to add Swagger shortcut in Eureka.",
-  "homepage_url": "https://github.com/Rikezenho",
+  "homepage_url": "https://github.com/Rikezenho/add-swagger-link-to-eureka",
   "author": "Henrique Kuwai",
   "icons": {
     "16": "icons/icon16.png",
