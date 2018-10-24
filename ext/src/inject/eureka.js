@@ -8,6 +8,7 @@ const addSwaggerLinksToEureka = () => {
     <span>
       <a href='${el.href}' target='_blank'>${el.innerText}</a>
       <a href='${`${splitted[0]}//${splitted[2]}/swagger-ui.html`}' style='color:#000;'>[swagger]</a>
+      <a href='${`${splitted[0]}//${splitted[2]}/ff4j-console/`}' style='color:#000;'>[FF4J Console]</a>
     </span>
     `
   })
